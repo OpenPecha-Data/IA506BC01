@@ -4,4 +4,9 @@ source_metadata:
   id: bdr:W1AC339
   title: 《密宗道次第心要》讲授--贡噶活佛
   author: ''
-  volumes: {}
+  volumes:
+    cdbd28960c8145f8b1f733005e478d15:
+      image_group_id: I4PD4482
+      title: ''
+      volume_number: 1
+      total_pages: 364
